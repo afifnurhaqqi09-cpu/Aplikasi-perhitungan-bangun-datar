@@ -11,7 +11,7 @@ with st.sidebar:
         st.image("bmw.png")
     st.title("Bangun Datar")
     pilihan = st.selectbox("Pilih Bangun Datar", ["Persegi", "Persegi Panjang", "Segitiga", "Lingkaran"])
-    st.caption("Dibuat Dengan :🗿: Oleh  **afif,rkha,kiano,evan**")
+    st.caption("Dibuat Dengan :🗿: Oleh  **Rakha Syakir W**")
 
 
 match pilihan:
